@@ -1,0 +1,3 @@
+- Masina paine
+- Tableta
+- Sistem supraveghere
