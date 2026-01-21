@@ -1,3 +1,5 @@
-- Masina paine
-- Tableta
-- Sistem supraveghere
+- [ ] Masina paine
+- [ ] Tableta
+- [ ] Sistem supraveghere
+- [ ] Chromecast
+- [ ] BT Earbuds
