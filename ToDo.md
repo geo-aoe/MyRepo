@@ -8,4 +8,4 @@
   * 303 RON (ex) https://www.emag.ro/mediaplayer-xiaomi-mi-tv-box-s-3rd-gen-google-tv-bluetooth-wi-fi-hdmi-4k-ultra-hd-negru-pfj4191eu/pd/DV892N3BM/
 - [ ] BT Earbuds
   * 400 RON [dwyn.ro](https://www.dwyn.ro/casti/oneplus/300451-casti-oneplus-buds-4-in-ear-bluetooth-5-4-gri-inchis/?ref=pricero&utm_source=price-ro&utm_medium=pricegrabbers&utm_campaign=price-ro_channable&utm_content=price-promo&utm_term=Casti+Oneplus+Buds+4%2C+in+ear%2C+Bluetooth+5.4%2C+Gri+inchis)
-  * 120 RON bormasina acumulator Kaufland.
+- [ ] RON bormasina acumulator Kaufland.
